@@ -1,0 +1,100 @@
+body {
+	background-image: url(images/background.jpg);
+	color: rgb(255, 255,255);
+	font-family: Courier, monospace;	line-height: 1.6;
+	letter-spacing:1px; 
+	text-justify: center;
+	text-justify: justify;
+	width: 700px;
+	margin: 20px auto;
+}
+body
+div {
+	text-align: center;
+}
+div#bandeau {
+	background-color: rgba(200,200,200,0.5);
+	padding-right: 5px;
+	padding-left:5px;
+	border-radius: 3%;
+    box-shadow: 2px 15px 35px rgba(50,50,93,.3);
+}
+div#stages {
+	background-color: rgba(200,200,200,0.5);
+	border-radius: 3%
+}
+div#sport {
+	background-color: rgba(200,200,200,0.5);
+	border-radius: 3%
+}
+div#bio {
+	background-color: rgba(200,200,200,0.5);
+	border-radius: 3%
+}
+div#a {
+	background-color: rgba(200,200,200,0.5);
+	border-radius: 3%
+}
+div#b {
+	background-color: rgba(200,200,200,0.5);
+	border-radius: 3%
+}
+div#c {
+	background-color: rgba(200,200,200,0.5);
+	border-radius: 3%
+}
+a {
+    text-decoration: none;
+    color: #B9E1F5;
+    color: rgb(185, 225, 245);
+    transition: color 0,3s ease;
+}
+a:hover {
+	text-decoration: none;
+	color: #B9E1F5;
+    color: rgb(185, 225, 245);
+}
+p {
+	text-justify: center;
+	text-justify: justify;
+	front-size: 12px;
+	letter-spacing: 0,1px;
+
+}
+#Mimg {
+	border-radius: 50%
+}
+h1	{
+	color: blue;
+    color: #45A3D2;
+    color: rgb(69, 163, 210);
+    front-size: 24px;
+    text-justify: center;
+    text-justify: justify;
+}
+h2	{
+    color: blue;
+    color: #53C2F9;
+    color: rgb(83, 194, 249);
+    front-size: 20px;
+    text-justify: center;
+    text-justify: justify;
+}
+h3	{
+    color: blue;
+    color: #53C2F9;
+    color: rgb(83, 194, 249);
+    front-size: 18px;
+    text-justify: center;
+    text-justify: justify;
+    text-decoration: underline;
+}
+h4 {
+    color: blue;
+    color: #E7E7E7;
+    color: rgb(231, 231, 231);
+    front-size: 14px;
+    text-justify: center;
+    text-justify: justify;
+    text-decoration: underline;
+}
